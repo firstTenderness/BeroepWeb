@@ -8,7 +8,7 @@ const routes = [
   {
     path: '/home',
     name: 'Home',
-    component: () => import('../pages/honde.vue')
+    component: () => import('../pages/home.vue')
   },
   {
     path: '/register',
